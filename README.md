@@ -1,6 +1,6 @@
 # Online Group Chatting Application
 
-This online group chatting Python application utilizes TCP connection to allow multiple concurrent client connections. The commands are shown below.
+This online group chatting Python application utilizes TCP and UDP connection to allow multiple concurrent client connections. The commands are shown below.
 
 • connect : The client connects to the CRDS on the CRDP. Once connected, the
 client can issue the CRDS commands discussed above, i.e., getdir, makeroom
